@@ -1,0 +1,4 @@
+zona:{nombre, direccion, puntos:[{nombra_zona, celador_asignado}]}
+
+
+user: user, pass, email, telefono 
